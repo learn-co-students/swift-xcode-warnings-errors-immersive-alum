@@ -19,6 +19,7 @@ class ViewController: UIViewController {
     func unicorn() -> String {
         
         return "🦄 🦄 🦄 🦄"
+//        return "I hate unicorns!"
         
     }
     
